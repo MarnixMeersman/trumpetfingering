@@ -84,7 +84,7 @@ MuseScore {
          }
       }
 
-      var names = ["D","D#","E","F","F#","G","G#","A","A#","B","C","C#"];
+      var names = ["","","","","","","","","","","",""];
       // comment this block for american note names
       //var names = ["re","re#","mi","fa","fa#","sol","sol#","la","la#","si", "do","do#"];
       // comment the above block for american note names
